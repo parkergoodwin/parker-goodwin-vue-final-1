@@ -1,7 +1,7 @@
 # parker-goodwin-vue-final
 
 ## Project setup
-```
+```/
 yarn install
 ```
 
